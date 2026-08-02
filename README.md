@@ -27,7 +27,7 @@ This satisfies the assignment's minimum requirements of ≥12 features and ≥50
 instances.
 
 ## c. GitHub Repository Link
-`<PASTE-YOUR-GITHUB-REPO-LINK-HERE>`
+https://github.com/Srushtii29/BITS-DSE-Sem-2-ML-Assignment
 
 Repository structure:
 ```
@@ -203,7 +203,7 @@ streamlit run app.py
 ```
 
 ## Live App
-`<PASTE-YOUR-STREAMLIT-COMMUNITY-CLOUD-LINK-HERE>`
+https://bits-dse-sem-2-ml-assignment-2025da04079.streamlit.app/
 
 ## App Features
 - CSV upload of test data (sidebar)
