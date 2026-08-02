@@ -1,0 +1,10 @@
+Classification Report — Naive Bayes
+==================================================
+               precision    recall  f1-score   support
+
+Malignant (0)       0.90      0.90      0.90        42
+   Benign (1)       0.94      0.94      0.94        72
+
+     accuracy                           0.93       114
+    macro avg       0.92      0.92      0.92       114
+ weighted avg       0.93      0.93      0.93       114
